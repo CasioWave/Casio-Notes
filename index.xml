@@ -12,6 +12,24 @@
     <description>The Basic Axioms of QM.</description>
     <pubDate>Tue, 02 Dec 2025 18:30:00 GMT</pubDate>
   </item><item>
+    <title>Landauer&#039;s Principle</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Landauers-Principle</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Landauers-Principle</guid>
+    <description>Principle related to Physics of Information.</description>
+    <pubDate>Tue, 02 Dec 2025 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Physics of Information</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</guid>
+    <description> Information can be interpreted as “something” that is encoded in the state of a physical system. Computation can be interpreted as “something” that can be carried out on an actual physically realisable device.</description>
+    <pubDate>Tue, 02 Dec 2025 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Reversible computation</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</guid>
+    <description>Why is naive computation irreversible, and Bennet's method of reversible computation.</description>
+    <pubDate>Tue, 02 Dec 2025 18:30:00 GMT</pubDate>
+  </item><item>
     <title>bibliography.bib</title>
     <link>https://casiowave.github.io/Casio-Notes/bibliography.bib</link>
     <guid>https://casiowave.github.io/Casio-Notes/bibliography.bib</guid>
