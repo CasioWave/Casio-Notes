@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Casio Notes</title>
+      <title>Casio-Notes</title>
       <link>https://casiowave.github.io/Casio-Notes</link>
-      <description>Last 10 notes on Casio Notes</description>
+      <description>Last 10 notes on Casio-Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Quantum Complexity</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</guid>
-    <description>How Quantum theory fits into our understanding of complexity theory.</description>
-    <pubDate>Sat, 15 Mar 2025 19:28:36 GMT</pubDate>
-  </item><item>
     <title>Introduction to Quantum Information and Computation</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Introduction-to-Quantum-Information-and-Computation</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Introduction-to-Quantum-Information-and-Computation</guid>
     <description>Quantum theories of Information and Computation.</description>
+    <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Quantum Complexity</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</guid>
+    <description>How Quantum theory fits into our understanding of complexity theory.</description>
     <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Quantum Information</title>
@@ -27,7 +27,7 @@
     <title>Bennet&#039;s resolution of Maxwell&#039;s Demon</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Bennet's-resolution-of-Maxwell's-Demon</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Bennet's-resolution-of-Maxwell's-Demon</guid>
-    <description>How Bennet used Landauer's Principle to resolve the problem posed by MD.</description>
+    <description>Bennet's use of Landauer's and his ideas to resolve MD.</description>
     <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Efficient Quantum Algorithms</title>
@@ -36,16 +36,22 @@
     <description>How Quantum Theory influences our ideas on computation.</description>
     <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
+    <title>Welcome to Casio Notes!</title>
+    <link>https://casiowave.github.io/Casio-Notes/</link>
+    <guid>https://casiowave.github.io/Casio-Notes/</guid>
+    <description>Hi! Welcome to my collection of academic notes, mostly revolving around topics in Physics, Mathematics, and some Computer Science/Electronics. I try to keep it modular and wiki-like.</description>
+    <pubDate>Wed, 12 Mar 2025 15:18:06 GMT</pubDate>
+  </item><item>
     <title>preamble.sty</title>
     <link>https://casiowave.github.io/Casio-Notes/preamble.sty</link>
     <guid>https://casiowave.github.io/Casio-Notes/preamble.sty</guid>
     <description>\usepackage{physics} \newcommand{\R}{\mathbb{R}} \newcommand{\C}{\mathbb{C}}.</description>
-    <pubDate>Wed, 12 Mar 2025 14:34:10 GMT</pubDate>
+    <pubDate>Wed, 12 Mar 2025 14:35:01 GMT</pubDate>
   </item><item>
     <title>Axioms of Quantum Mechanics</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</guid>
-    <description>The Basic Axioms of QM.</description>
+    <description>The following are the axioms of Quantum Mechanics - The properties of quantum systems are completely defined by the specification of its state vector, denoted generally by \ket{\psi} ...</description>
     <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Landauer&#039;s Principle</title>
@@ -57,13 +63,7 @@
     <title>Physics of Information</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</guid>
-    <description> Information can be interpreted as “something” that is encoded in the state of a physical system. Computation can be interpreted as “something” that can be carried out on an actual physically realisable device.</description>
-    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Reversible computation</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</guid>
-    <description>Why is naive computation irreversible, and Bennet's method of reversible computation.</description>
+    <description>How we use physics to study information.</description>
     <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
