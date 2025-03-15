@@ -42,12 +42,6 @@
     <description>Hi! Welcome to my collection of academic notes, mostly revolving around topics in Physics, Mathematics, and some Computer Science/Electronics. I try to keep it modular and wiki-like.</description>
     <pubDate>Wed, 12 Mar 2025 15:18:06 GMT</pubDate>
   </item><item>
-    <title>preamble.sty</title>
-    <link>https://casiowave.github.io/Casio-Notes/preamble.sty</link>
-    <guid>https://casiowave.github.io/Casio-Notes/preamble.sty</guid>
-    <description>\usepackage{physics} \newcommand{\R}{\mathbb{R}} \newcommand{\C}{\mathbb{C}}.</description>
-    <pubDate>Wed, 12 Mar 2025 14:35:01 GMT</pubDate>
-  </item><item>
     <title>Axioms of Quantum Mechanics</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</guid>
@@ -64,6 +58,12 @@
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</guid>
     <description>How we use physics to study information.</description>
+    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Reversible computation</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</guid>
+    <description>Why is naive computation irreversible, and Bennet's method of reversible computation.</description>
     <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
