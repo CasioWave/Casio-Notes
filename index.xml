@@ -6,65 +6,65 @@
       <description>Last 10 notes on Casio-Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>QM 1 (Home)</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-1/QM-1-(Home)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-1/QM-1-(Home)</guid>
+    <description>Topics in QM-1.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Conservation of probability current associated with wavefunction (Proof)</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</guid>
+    <description>Proof of the conservation of the probability current defined for a valid wavefunction that is a solution to the SE.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>QM 2 (Home)</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/QM-2-(Home)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/QM-2-(Home)</guid>
+    <description>Topics related to QM-2.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Schrodinger Equation preserves the normalization of a wavefunction</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/SE-preserves-normalization-(Proof)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/SE-preserves-normalization-(Proof)</guid>
+    <description>Proof of the claim.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Stationary Solution</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Stationary-Solutions</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Stationary-Solutions</guid>
+    <description>Special cases of solutions to the SE.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Wave Mechanics (QM)</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Wave-Mechanics-(QM)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Wave-Mechanics-(QM)</guid>
+    <description>Wave Mechanics in the context of QM.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>The Schrodinger Equation</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/The-Schrodinger-Equation</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/The-Schrodinger-Equation</guid>
+    <description>The great SE.</description>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Quantum Complexity</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</guid>
     <description>How Quantum theory fits into our understanding of complexity theory.</description>
-    <pubDate>Sat, 15 Mar 2025 21:57:24 GMT</pubDate>
+    <pubDate>Mon, 17 Mar 2025 22:21:13 GMT</pubDate>
   </item><item>
-    <title>Introduction to Quantum Information and Computation</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Introduction-to-Quantum-Information-and-Computation</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Introduction-to-Quantum-Information-and-Computation</guid>
-    <description>Quantum theories of Information and Computation.</description>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+    <title>{{title}}</title>
+    <link>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Untitled</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Untitled</guid>
+    <description></description>
+    <pubDate>Mon, 17 Mar 2025 22:21:13 GMT</pubDate>
   </item><item>
-    <title>Quantum Information</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Information</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Information</guid>
-    <description>How Quantum Theories influence the physics of information.</description>
-    <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Bennet&#039;s resolution of Maxwell&#039;s Demon</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Bennet's-resolution-of-Maxwell's-Demon</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Bennet's-resolution-of-Maxwell's-Demon</guid>
-    <description>Bennet's use of Landauer's and his ideas to resolve MD.</description>
-    <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Efficient Quantum Algorithms</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Efficient-Quantum-Algorithms</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Efficient-Quantum-Algorithms</guid>
-    <description>How Quantum Theory influences our ideas on computation.</description>
-    <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Welcome to Casio Notes!</title>
-    <link>https://casiowave.github.io/Casio-Notes/</link>
-    <guid>https://casiowave.github.io/Casio-Notes/</guid>
-    <description>Hi! Welcome to my collection of academic notes, mostly revolving around topics in Physics, Mathematics, and some Computer Science/Electronics. I try to keep it modular and wiki-like.</description>
-    <pubDate>Wed, 12 Mar 2025 15:18:06 GMT</pubDate>
-  </item><item>
-    <title>Axioms of Quantum Mechanics</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</guid>
-    <description>The following are the axioms of Quantum Mechanics - The properties of quantum systems are completely defined by the specification of its state vector, denoted generally by \ket{\psi} ...</description>
-    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Landauer&#039;s Principle</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Landauers-Principle</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Landauers-Principle</guid>
-    <description>Principle related to Physics of Information.</description>
-    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Physics of Information</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</guid>
-    <description>How we use physics to study information.</description>
-    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Reversible computation</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</guid>
-    <description>Why is naive computation irreversible, and Bennet's method of reversible computation.</description>
-    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+    <title>Electronics Experiments</title>
+    <link>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Electronics-Experiments.sync-conflict-20250317-114225-ISDNKCS</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Electronics-Experiments.sync-conflict-20250317-114225-ISDNKCS</guid>
+    <description></description>
+    <pubDate>Mon, 17 Mar 2025 22:21:13 GMT</pubDate>
   </item>
     </channel>
   </rss>
