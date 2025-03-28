@@ -1,15 +1,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Electrodynamics/Study-of-Boolean-Logic-Gate-ICs</loc>
-    <lastmod>2025-03-17T00:00:00.000Z</lastmod>
-  </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Electronics-Experiments</loc>
     <lastmod>2025-03-17T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Electronics-Experiments.sync-conflict-20250317-114225-ISDNKCS</loc>
-    <lastmod>2025-03-17T22:21:13.368Z</lastmod>
-  </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Untitled</loc>
-    <lastmod>2025-03-17T22:21:13.371Z</lastmod>
+    <loc>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Study-of-Boolean-Logic-Gate-ICs</loc>
+    <lastmod>2025-03-17T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</loc>
     <lastmod>2025-03-12T00:00:00.000Z</lastmod>
@@ -44,17 +38,26 @@
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Landauers-Principle</loc>
     <lastmod>2025-03-12T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/New-classifications-of-complexity</loc>
+    <lastmod>2025-03-27T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Physics-of-Information</loc>
     <lastmod>2025-03-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</loc>
-    <lastmod>2025-03-17T22:21:13.798Z</lastmod>
+    <lastmod>2025-03-15T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Errors</loc>
+    <lastmod>2025-03-28T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Information-and-Computation-(Home)</loc>
     <lastmod>2025-03-17T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Information</loc>
     <lastmod>2025-03-15T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Parallelism</loc>
+    <lastmod>2025-03-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Reversible-computation</loc>
     <lastmod>2025-03-12T00:00:00.000Z</lastmod>

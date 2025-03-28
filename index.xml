@@ -6,6 +6,24 @@
       <description>Last 10 notes on Casio-Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Errors in Quantum information/ccomputing</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Errors</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Errors</guid>
+    <description>How do we deal with errors in quantum computing?.</description>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>New classifications of complexity</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/New-classifications-of-complexity</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/New-classifications-of-complexity</guid>
+    <description>Extending classical complexity theory.</description>
+    <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Quantum Parallelism</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Parallelism</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Parallelism</guid>
+    <description>How a Quantum computer realises its computational potential.</description>
+    <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>QM 1 (Home)</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-1/QM-1-(Home)</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-1/QM-1-(Home)</guid>
@@ -47,24 +65,6 @@
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/The-Schrodinger-Equation</guid>
     <description>The great SE.</description>
     <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Quantum Complexity</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</guid>
-    <description>How Quantum theory fits into our understanding of complexity theory.</description>
-    <pubDate>Mon, 17 Mar 2025 22:21:13 GMT</pubDate>
-  </item><item>
-    <title>{{title}}</title>
-    <link>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Untitled</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Untitled</guid>
-    <description></description>
-    <pubDate>Mon, 17 Mar 2025 22:21:13 GMT</pubDate>
-  </item><item>
-    <title>Electronics Experiments</title>
-    <link>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Electronics-Experiments.sync-conflict-20250317-114225-ISDNKCS</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Experimental-Physics/Electronics/Electronics-Experiments.sync-conflict-20250317-114225-ISDNKCS</guid>
-    <description></description>
-    <pubDate>Mon, 17 Mar 2025 22:21:13 GMT</pubDate>
   </item>
     </channel>
   </rss>
