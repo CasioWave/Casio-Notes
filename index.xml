@@ -6,21 +6,27 @@
       <description>Last 10 notes on Casio-Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome to Casio Notes!</title>
+    <link>https://casiowave.github.io/Casio-Notes/</link>
+    <guid>https://casiowave.github.io/Casio-Notes/</guid>
+    <description>Hi! Welcome to my collection of academic notes, mostly revolving around topics in Physics, Mathematics, and some Computer Science/Electronics. I try to keep it modular and wiki-like.</description>
+    <pubDate>Tue, 13 May 2025 17:21:42 GMT</pubDate>
+  </item><item>
     <title>Mathematical Methods in Physics (Home)</title>
-    <link>https://casiowave.github.io/Casio-Notes/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</guid>
     <description>List of topics (in a rough logical order) Vector Calculus .</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Vector Calculus in Curvilinear Coordinates</title>
-    <link>https://casiowave.github.io/Casio-Notes/Mathematical-Methods-in-Physics/Vector-Calculus-in-Curvilinear-Coordinates</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Mathematical-Methods-in-Physics/Vector-Calculus-in-Curvilinear-Coordinates</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus-in-Curvilinear-Coordinates</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus-in-Curvilinear-Coordinates</guid>
     <description>We will going over the three fundamental theorems of vector calculus in generalised curvilinear coordinates. Notation We identify a point in space by some 3-tuple of its “coordinates” - (u,v,w).</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Vector Calculus</title>
-    <link>https://casiowave.github.io/Casio-Notes/Mathematical-Methods-in-Physics/Vector-Calculus</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Mathematical-Methods-in-Physics/Vector-Calculus</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus</guid>
     <description>Doing calculus with vector.</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
@@ -42,27 +48,21 @@
     <description>How a Quantum computer realises its computational potential.</description>
     <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
-    <title>QM 1 (Home)</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-1/QM-1-(Home)</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-1/QM-1-(Home)</guid>
-    <description>Topics in QM-1.</description>
-    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Conservation of probability current associated with wavefunction (Proof)</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</guid>
     <description>Proof of the conservation of the probability current defined for a valid wavefunction that is a solution to the SE.</description>
     <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>QM 2 (Home)</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/QM-2-(Home)</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/QM-2-(Home)</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics-(Home)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics-(Home)</guid>
     <description>Topics related to QM-2.</description>
     <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Schrodinger Equation preserves the normalization of a wavefunction</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/SE-preserves-normalization-(Proof)</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/QM-2/SE-preserves-normalization-(Proof)</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/SE-preserves-normalization-(Proof)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/SE-preserves-normalization-(Proof)</guid>
     <description>Proof of the claim.</description>
     <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
   </item>
