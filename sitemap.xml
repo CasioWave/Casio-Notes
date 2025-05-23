@@ -1,9 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Infinite-Series</loc>
-    <lastmod>2025-05-20T00:00:00.000Z</lastmod>
-  </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</loc>
     <lastmod>2025-03-30T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Preliminaries/Infinite-Series</loc>
+    <lastmod>2025-05-20T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Preliminaries/Preliminaries-(Home)</loc>
+    <lastmod>2025-05-22T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus-in-Curvilinear-Coordinates</loc>
     <lastmod>2025-03-30T00:00:00.000Z</lastmod>
@@ -11,7 +14,7 @@
     <loc>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus</loc>
     <lastmod>2025-03-30T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Axioms-of-Quantum-Mechanics</loc>
+    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Axioms-of-Quantum-Mechanics</loc>
     <lastmod>2025-03-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</loc>
@@ -23,10 +26,13 @@
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/SE-preserves-normalization-(Proof)</loc>
     <lastmod>2025-03-18T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Schrodinger's-Cat-gedanken</loc>
+    <lastmod>2025-05-23T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Stationary-Solutions</loc>
     <lastmod>2025-03-18T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Wave-Mechanics-(QM)</loc>
+    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/The-Schrodinger-Equation</loc>
     <lastmod>2025-03-18T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Bennet's-resolution-of-Maxwell's-Demon</loc>
@@ -50,9 +56,6 @@
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Complexity</loc>
     <lastmod>2025-03-15T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Errors</loc>
-    <lastmod>2025-03-28T00:00:00.000Z</lastmod>
-  </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Information-and-Computation-(Home)</loc>
     <lastmod>2025-03-17T00:00:00.000Z</lastmod>
   </url><url>
@@ -66,12 +69,6 @@
     <lastmod>2025-03-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Mechanics-(Home)</loc>
-    <lastmod>2025-03-17T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/The-Schrodinger-Equation</loc>
-    <lastmod>2025-03-18T00:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://casiowave.github.io/Casio-Notes/Statistical-Mechanics/Statistical-Mechanics-(Home)</loc>
     <lastmod>2025-03-17T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://casiowave.github.io/Casio-Notes/</loc>

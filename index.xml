@@ -6,9 +6,21 @@
       <description>Last 10 notes on Casio-Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Schrodinger&#039;s Cat gedanken</title>
+    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Schrodinger's-Cat-gedanken</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Schrodinger's-Cat-gedanken</guid>
+    <description>The famous thought experiment.</description>
+    <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Preliminaries (Home)</title>
+    <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Preliminaries/Preliminaries-(Home)</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Preliminaries/Preliminaries-(Home)</guid>
+    <description>Some mathematical preliminaries for Physics.</description>
+    <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Infinite Series</title>
-    <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Infinite-Series</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Infinite-Series</guid>
+    <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Preliminaries/Infinite-Series</link>
+    <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Preliminaries/Infinite-Series</guid>
     <description>Basic tests and manipulations on infinite series.</description>
     <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
   </item><item>
@@ -21,7 +33,7 @@
     <title>Mathematical Methods in Physics (Home)</title>
     <link>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</link>
     <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Mathematical-Methods-in-Physics-(Home)</guid>
-    <description>List of topics (in a rough logical order) Some preliminaries: Infinite Series Series of Functions Mathematical Induction Operations on Series Expansions of Functions A few important ...</description>
+    <description>List of topics (in a rough logical order) Preliminaries (Home) Vector Calculus .</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>Vector Calculus in Curvilinear Coordinates</title>
@@ -35,12 +47,6 @@
     <guid>https://casiowave.github.io/Casio-Notes/Mathematics/Mathematical-Methods-in-Physics/Vector-Calculus</guid>
     <description>Doing calculus with vector.</description>
     <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Errors in Quantum information/ccomputing</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Errors</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/Quantum-Errors</guid>
-    <description>How do we deal with errors in quantum computing?.</description>
-    <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>New classifications of complexity</title>
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Quantum-Information-and-Computation/New-classifications-of-complexity</link>
@@ -58,12 +64,6 @@
     <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</link>
     <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Conservation-of-probability-current-associated-with-wavefunction-(Proof)</guid>
     <description>Proof of the conservation of the probability current defined for a valid wavefunction that is a solution to the SE.</description>
-    <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>QM 2 (Home)</title>
-    <link>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics-(Home)</link>
-    <guid>https://casiowave.github.io/Casio-Notes/Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics/Non-Relativistic-Quantum-Mechanics-(Home)</guid>
-    <description>Topics related to QM-2.</description>
     <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
