@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Casio-Notes</title>
+      <link>https://casiowave.github.io/Casio-Notes</link>
+      <description>Last 10 notes on Casio-Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Linked Note Demo</title>
+    <link>https://casiowave.github.io/Casio-Notes/linked-note</link>
+    <guid>https://casiowave.github.io/Casio-Notes/linked-note</guid>
+    <description><![CDATA[ Linked Note This note exists to demonstrate the Graph View and Backlinks functionality. It is linked from test. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 14:15:10 GMT</pubDate>
+  </item><item>
+    <title>Casio Notes Feature Demo</title>
+    <link>https://casiowave.github.io/Casio-Notes/test</link>
+    <guid>https://casiowave.github.io/Casio-Notes/test</guid>
+    <description><![CDATA[ Casio Notes Feature Demo Welcome to the Casio Notes feature demonstration. ]]></description>
+    <pubDate>Sun, 18 Jan 2026 11:19:00 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Casio Notes</title>
+    <link>https://casiowave.github.io/Casio-Notes/</link>
+    <guid>https://casiowave.github.io/Casio-Notes/</guid>
+    <description><![CDATA[ Physics Notes Welcome to my digital garden of physics notes. Recent Notes test . ]]></description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
