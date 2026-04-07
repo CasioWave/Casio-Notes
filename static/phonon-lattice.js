@@ -37,7 +37,9 @@
   // --- Initialization ---
   async function init() {
     try {
-      const response = await fetch("/simulation_config.json?t=" + Date.now())
+      const scriptEl = document.querySelector('script[src*="phonon-lattice.js"]')
+      const configUrl = scriptEl ? scriptEl.src.replace('phonon-lattice.js', 'simulation_config.json') : '/static/simulation_config.json'
+      const response = await fetch(configUrl + "?t=" + Date.now())
       if (response.ok) {
         const fetchedConfig = await response.json()
         Object.assign(config, fetchedConfig)

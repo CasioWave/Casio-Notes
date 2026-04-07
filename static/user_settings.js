@@ -3,13 +3,15 @@
   window.__userSettingsInitialized = true
 
   // Initial State from localStorage
+  let savedTemp = localStorage.getItem("us_simTemp")
+  let savedSimEnabled = localStorage.getItem("us_simEnabled")
   let settings = {
-    simEnabled: localStorage.getItem("us_simEnabled") !== "false", // default true
-    highContrast: localStorage.getItem("us_highContrast") === "true", // default false
-    simTemp: parseFloat(localStorage.getItem("us_simTemp")) || 0.1,
+    simEnabled: savedSimEnabled !== null ? savedSimEnabled !== "false" : null,
+    highContrast: localStorage.getItem("us_highContrast") === "true",
+    simTemp: savedTemp !== null ? parseFloat(savedTemp) : null,
     fontSize: parseFloat(localStorage.getItem("us_fontSize")) || 1.0,
-    bionic: localStorage.getItem("us_bionic") === "true", // default false
-    tufteEnabled: localStorage.getItem("us_tufteEnabled") !== "false", // default true
+    bionic: localStorage.getItem("us_bionic") === "true",
+    tufteEnabled: localStorage.getItem("us_tufteEnabled") !== "false",
   }
 
   // 1. Inject CSS for UI and Features
@@ -138,12 +140,12 @@
 
     <div class="setting-row">
       <label for="us-sim-enabled">Background Simulation</label>
-      <input type="checkbox" id="us-sim-enabled" ${settings.simEnabled ? "checked" : ""}>
+      <input type="checkbox" id="us-sim-enabled" ${settings.simEnabled !== false ? "checked" : ""}>
     </div>
 
     <div class="setting-row" title="Warning: Reloads page to apply">
       <label for="us-sim-temp">Simulation Temp</label>
-      <input type="range" id="us-sim-temp" min="0" max="0.5" step="0.01" value="${settings.simTemp}">
+      <input type="range" id="us-sim-temp" min="0" max="0.5" step="0.01" value="${settings.simTemp !== null ? settings.simTemp : 0.05}">
     </div>
 
     <div class="setting-row">
@@ -203,7 +205,7 @@
 
   function applySimEnabled() {
     const canvas = document.getElementById("phonon-lattice-canvas")
-    if (canvas) {
+    if (canvas && settings.simEnabled !== null) {
       canvas.style.display = settings.simEnabled ? "" : "none"
     }
   }
@@ -385,13 +387,28 @@
   const originalFetch = window.fetch
   window.fetch = async function (...args) {
     const response = await originalFetch.apply(this, args)
-    if (args[0] && typeof args[0] === "string" && args[0].includes("simulation_config.json")) {
+    const url = typeof args[0] === "string" ? args[0] : (args[0] && args[0].url ? args[0].url : "")
+    if (url.includes("simulation_config.json")) {
       const clone = response.clone()
       try {
         const config = await clone.json()
-        // Override with user settings
-        config.temperature = settings.simTemp
-        config.enabled = settings.simEnabled
+        
+        if (settings.simTemp !== null) {
+          config.temperature = settings.simTemp
+        } else {
+          const slider = document.getElementById("us-sim-temp")
+          if (slider) slider.value = config.temperature
+        }
+        
+        if (settings.simEnabled !== null) {
+          config.enabled = settings.simEnabled
+        } else {
+          const cb = document.getElementById("us-sim-enabled")
+          if (cb) cb.checked = config.enabled
+          const canvas = document.getElementById("phonon-lattice-canvas")
+          if (canvas) canvas.style.display = config.enabled ? "" : "none"
+        }
+        
         return new Response(JSON.stringify(config), {
           status: response.status,
           statusText: response.statusText,
