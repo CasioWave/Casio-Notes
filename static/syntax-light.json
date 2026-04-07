@@ -1,0 +1,63 @@
+{
+  "name": "casio-light",
+  "colors": {
+    "editor.background": "#FCFDFE",
+    "editor.foreground": "#2A3454"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#8A98C4",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier",
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#4059AD"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "constant.language.boolean",
+        "constant.numeric",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#169873"
+      }
+    },
+    {
+      "scope": [
+        "invalid",
+        "invalid.illegal",
+        "message.error"
+      ],
+      "settings": {
+        "foreground": "#912F56"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.type",
+        "entity.other.inherited-class",
+        "text"
+      ],
+      "settings": {
+        "foreground": "#2A3454"
+      }
+    }
+  ]
+}

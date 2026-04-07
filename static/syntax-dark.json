@@ -1,0 +1,63 @@
+{
+  "name": "casio-dark",
+  "colors": {
+    "editor.background": "#121521",
+    "editor.foreground": "#D4DCFF"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#5C6B99",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier",
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#ACE4AA"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "constant.language.boolean",
+        "constant.numeric",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#169873"
+      }
+    },
+    {
+      "scope": [
+        "invalid",
+        "invalid.illegal",
+        "message.error"
+      ],
+      "settings": {
+        "foreground": "#F4F6FF"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "entity.name.type",
+        "entity.other.inherited-class",
+        "text"
+      ],
+      "settings": {
+        "foreground": "#D4DCFF"
+      }
+    }
+  ]
+}

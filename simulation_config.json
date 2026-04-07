@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "geometry": "square",
+  "temperature": 0.03676470588235294,
+  "acousticVelocity": 0.8,
+  "phononLifetime": 0.05
+}

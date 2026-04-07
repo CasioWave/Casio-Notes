@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>CasioNotes</title>
+      <link>https://casiowave.github.io/casio-notes</link>
+      <description>Last 10 notes on CasioNotes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Citation Test</title>
+    <link>https://casiowave.github.io/casio-notes/citation-test</link>
+    <guid>https://casiowave.github.io/casio-notes/citation-test</guid>
+    <description><![CDATA[ Testing citations (Feynman, 1965) and more text. Feynman, R. P. (1965). The Character of Physical Law. MIT press. ]]></description>
+    <pubDate>Tue, 07 Apr 2026 19:56:22 GMT</pubDate>
+  </item><item>
+    <title>Welcome to CasioNotes!</title>
+    <link>https://casiowave.github.io/casio-notes/</link>
+    <guid>https://casiowave.github.io/casio-notes/</guid>
+    <description><![CDATA[ Hello, and welcome to my collection of (academic) notes! This will be populated by my personal notes on Physics, Mathematics, Philosophy, and anything else that I deem to be “academic” enough :) The website is organized as a wiki - so things are often not structured in a strict fashion. ]]></description>
+    <pubDate>Tue, 07 Apr 2026 19:37:20 GMT</pubDate>
+  </item><item>
+    <title>Lagrange Multipliers</title>
+    <link>https://casiowave.github.io/casio-notes/Mathematical-Methods-in-Physics/Lagrange-Multipliers</link>
+    <guid>https://casiowave.github.io/casio-notes/Mathematical-Methods-in-Physics/Lagrange-Multipliers</guid>
+    <description><![CDATA[ Lagrange Multipliers TL;DR The method of Lagrange Multipliers is a powerful strategy in calculus for finding the local maxima and minima of a function subject to equality constraints. ]]></description>
+    <pubDate>Mon, 30 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Jensen&#039;s Inequality</title>
+    <link>https://casiowave.github.io/casio-notes/Mathematics/Jensen's-Inequality</link>
+    <guid>https://casiowave.github.io/casio-notes/Mathematics/Jensen's-Inequality</guid>
+    <description><![CDATA[ Jensen’s Inequality TL;DR Jensen’s Inequality is a fundamental result in convex analysis and probability theory. ]]></description>
+    <pubDate>Mon, 30 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Theorem - Jensen&#039;s Inequality</title>
+    <link>https://casiowave.github.io/casio-notes/Mathematics/Theorem---Jensen's-Inequality</link>
+    <guid>https://casiowave.github.io/casio-notes/Mathematics/Theorem---Jensen's-Inequality</guid>
+    <description><![CDATA[ Theorem - Jensen’s Inequality Statement Let f: I \to \mathbb{R} be a convex function on the interval I \subseteq \mathbb{R}. ]]></description>
+    <pubDate>Mon, 30 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Numerical Aperture</title>
+    <link>https://casiowave.github.io/casio-notes/Experimental-Physics/Numerical-Aperture</link>
+    <guid>https://casiowave.github.io/casio-notes/Experimental-Physics/Numerical-Aperture</guid>
+    <description><![CDATA[ Numerical Aperture (often just denoted as NA) is a dimensionless number that characterises the range of angles over which an optical system can accept or emit light. ]]></description>
+    <pubDate>Sun, 29 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Wave Motion</title>
+    <link>https://casiowave.github.io/casio-notes/Optics/Wave-Motion</link>
+    <guid>https://casiowave.github.io/casio-notes/Optics/Wave-Motion</guid>
+    <description><![CDATA[ What is a particle? Normally, we imagine that a particle is basically something like a ball - which we shrink down to the smallest size possible. ]]></description>
+    <pubDate>Sun, 29 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Deconstructing Arguments</title>
+    <link>https://casiowave.github.io/casio-notes/Philosophy/Deconstructing-Arguments</link>
+    <guid>https://casiowave.github.io/casio-notes/Philosophy/Deconstructing-Arguments</guid>
+    <description><![CDATA[ Deconstructing Arguments TL;DR This note will discuss the foundational skill required in reading philosophical texts: Identifying its essential components. ]]></description>
+    <pubDate>Sun, 29 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Classical Mechanics for QM</title>
+    <link>https://casiowave.github.io/casio-notes/Quantum-Mechanics/Introductory/Classical-Mechanics-for-QM</link>
+    <guid>https://casiowave.github.io/casio-notes/Quantum-Mechanics/Introductory/Classical-Mechanics-for-QM</guid>
+    <description><![CDATA[ Here, we will be concerned with two formulations of classical mechanics, namely: Lagrangian Formulation Hamiltonian Formulation These formulations are both of course much easier to deal with as compared to the more simplistic Newtonian formulation, but they are all equivalent and deliver the same re... ]]></description>
+    <pubDate>Sun, 29 Mar 2026 18:30:00 GMT</pubDate>
+  </item><item>
+    <title>Landau Fermi Liquid Theory</title>
+    <link>https://casiowave.github.io/casio-notes/Research-Projects/EPQM-Group/Landau-Fermi-Liquid-Theory</link>
+    <guid>https://casiowave.github.io/casio-notes/Research-Projects/EPQM-Group/Landau-Fermi-Liquid-Theory</guid>
+    <description><![CDATA[  Note: Currently just a scaffold In a Fermi Liquid, the excitation spectrum of an interacting system of electrons is considered adiabatically continuous to that of a non-interacting electron gas. ]]></description>
+    <pubDate>Sun, 29 Mar 2026 18:30:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
