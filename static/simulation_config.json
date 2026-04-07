@@ -4,8 +4,8 @@
   "temperature": 0.029411764705882353,
   "acousticVelocity": 0.47058823529411764,
   "phononLifetime": 0.021176470588235293,
-  "interactionRadius": 1.0,
-  "interactionForce": 0.01,
-  "opacityLight": 0.4467647058823529,
-  "opacityDark": 0.5632352941176471
+  "interactionRadius": 44.89705882352941,
+  "interactionForce": 2.360588235294118,
+  "opacityLight": 0.2575,
+  "opacityDark": 0.24294117647058824
 }
