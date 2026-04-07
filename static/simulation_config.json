@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "geometry": "triangular",
+  "geometry": "square",
   "temperature": 0.029411764705882353,
   "acousticVelocity": 0.47058823529411764,
   "phononLifetime": 0.021176470588235293,
